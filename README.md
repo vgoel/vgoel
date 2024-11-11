@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vgoel
-- 👀 I’m interested in Programming computers and Blockchain tech
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Blockchain and Smart Contract projects
+- 👀 I’m interested in Programming computers and AI, LLMs and Blockchain tech
+- 🌱 I’m currently learning Langchain
+- 💞️ I’m looking to collaborate on AI, Blockchain and Smart Contract projects
 - 📫 How to reach me Ping me here
 
 <!---
